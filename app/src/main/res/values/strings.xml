@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AsteroidesSpace</string>
+
+    <string name="pcsenior">fonts/pcsenior.ttf</string>
+    <string name="chlorinap">fonts/chlorinap.ttf</string>
+    <string name="impact">fonts/impact.ttf</string>
+    <string name="metal_gear">fonts/metal_gear.ttf</string>
+    <string name="techno_overload">fonts/techno_overload.ttf</string>
+    <string name="supersonic">fonts/supersonic.ttf</string>
+
+</resources>
